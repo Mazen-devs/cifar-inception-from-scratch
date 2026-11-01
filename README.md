@@ -27,7 +27,6 @@
 | **Result** | **84.23% test accuracy, macro F1 0.842**, trained in **10.4 minutes** on one Tesla T4 |
 | **What makes it interesting** | It starts with a measured gradient-flow experiment, explains every design choice, and ends with an honest error analysis and an ablation the model did *not* win |
 
-> University coursework (CSC60904 Deep Learning, Taylor's University, April 2026), individual assignment. I'm a third-year CS student and still learning; feedback and issues are welcome.
 
 ## Why this architecture?
 
